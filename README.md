@@ -9,5 +9,6 @@
 
 [1. notMNIST](./notMNIST.ipynb)
 
-[2. Softmax模型推导](./Softmax_model.ipynb)
+Softmax模型推导 －Softmax_model.ipynb
+
 
