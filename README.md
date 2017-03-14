@@ -7,8 +7,10 @@
 
 ### 二、Udacity
 
-[1. notMNIST](./notMNIST.ipynb)
+git对latex公式显示不出来，就直接把ipynb放上来了
 
-Softmax模型推导 －Softmax_model.ipynb
+- 1.notMNIST notMNIST.ipynb
+
+- 2.Softmax模型推导 －Softmax_model.ipynb
 
 
