@@ -3,10 +3,12 @@
 ### 一、安装
 
 - MAC
+
 [Mac](./tensorflow_setup_note.md)
 
 - Ubuntu 14.04LTS
-    - pip安装
+    
+    - pip
     ```linux
     $ sudo apt-get install python-pip python-dev python-setuptools build-essential
     $ sudo pip install --upgrade pip
