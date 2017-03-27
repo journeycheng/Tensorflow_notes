@@ -7,15 +7,16 @@
 
 - Ubuntu 14.04LTS
     - pip安装
-```linux
-$ sudo apt-get install python-pip python-dev python-setuptools build-essential
-$ sudo pip install --upgrade pip
-$ sudo pip install --upgrade virtualenv
-```
+    ```linux
+    $ sudo apt-get install python-pip python-dev python-setuptools build-essential
+    $ sudo pip install --upgrade pip
+    $ sudo pip install --upgrade virtualenv
+    ```
     - tensorflow, CPU only
-```linux
-$ sudo pip install https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.5.0-cp27-none-linux_x86_64.whl
-```
+    
+    ```linux
+    $ sudo pip install https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.5.0-cp27-none-linux_x86_64.whl
+    ```
  
 
 ### 二、Udacity
